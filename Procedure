@@ -1,6 +1,6 @@
 Create a new procedure
 
-'Procedure to select all users from table UserService'
+# Procedure to select all users from table UserService
 CREATE PROCEDURE SelectAllUsers
 AS
 BEGIN
